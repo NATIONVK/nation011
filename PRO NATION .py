@@ -172,15 +172,15 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-logo =                                          ("""   
+logo =                                          (
 
                                        
- _____
- /    
-$$$$
-$$ |__
 
-$$$$$$
+
+
+
+
+
 
 ██╗░░░██╗███████╗░█████╗░░██████╗██╗███████╗███╗░░██╗
 
