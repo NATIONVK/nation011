@@ -1316,14 +1316,9 @@ class Main:
 			else:
 				continue
 
-		self.loop +=1
+		sel
+		
 
-
-def Subscraption()
-		os.system('clear')
-		print(logo)
-		Main()
-	else:
 		os.system("clear")
 		Subscraption()        
 Subscraption()     
